@@ -1,4 +1,8 @@
-# <img src="./symantec-logo.png" alt="Symantec Logo" style="height: 3.5em; vertical-align: middle; margin-bottom: 0.4em; margin-right: 0.1em"> ReadMe – Legal & Licensing Information
+<p align="center">
+  <img src="./symantec-logo.png" alt="Symantec Logo" height="300"/>
+</p>
+
+# ReadMe – Legal & Licensing Information
 
 Welcome to your Symantec software package. This ReadMe outlines key legal information, licensing terms, and third-party software notices associated with your product.
 
