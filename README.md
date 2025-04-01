@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./openoffice-logo.png" alt="OpenOffice Logo" height="300"/>
+  <img src="./openoffice-logo.png" alt="OpenOffice Logo" height="200"/>
 </p>
 
 # OpenOffice.org 2.4 README
