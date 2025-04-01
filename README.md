@@ -1,4 +1,8 @@
-# 📘 OpenOffice.org 2.4 README
+<p align="center">
+  <img src="./openoffice-logo.png" alt="OpenOffice Logo" height="300"/>
+</p>
+
+# OpenOffice.org 2.4 README
 
 Welcome to OpenOffice.org 2.4! This document offers crucial setup, usage, and support information. Whether you're a new or seasoned user, we encourage you to read through to ensure smooth operation and discover how to get involved in the community.
 
